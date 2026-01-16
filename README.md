@@ -64,7 +64,7 @@ This project calculates **PASS / FAIL** status using a **dynamic weightage-based
 
 ## 🚀 Live Demo
 
-👉 https://paramjeetsangwan.github.io/ACADEMIC_CALCULATOR/index.html
+👉 https://paramjeetsangwan.github.io/ACADEMIC_CALCULATOR/
 
 
 
