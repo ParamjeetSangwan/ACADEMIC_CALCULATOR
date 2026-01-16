@@ -62,6 +62,12 @@ This project calculates **PASS / FAIL** status using a **dynamic weightage-based
 
 ---
 
+## 🚀 Live Demo
+
+👉 https://ParamjeetSangwan.github.io/ACADEMIC_CALCULATOR/
+
+
+
 ## 🎯 Purpose
 
 This project is created for **academic and learning purposes**, following real LPU evaluation logic, and can be used as a **college mini-project**.
