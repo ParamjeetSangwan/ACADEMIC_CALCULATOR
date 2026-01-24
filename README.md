@@ -85,6 +85,12 @@ Result history storage
 
 Graphical user interface (GUI)
 
+
+## 🚀 Live Demo
+
+👉 https://paramjeetsangwan.github.io/ACADEMIC_CALCULATOR/
+
+
 🤝 Contributing
 
 Contributions are welcome!
