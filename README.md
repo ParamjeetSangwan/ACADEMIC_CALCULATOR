@@ -1,6 +1,6 @@
 🎓 CGPA Calculator
 
-A simple, accurate, and user-friendly CGPA Calculator designed for students to calculate their Cumulative Grade Point Average (CGPA) based on subject-wise grade points and credits.
+A simple, accurate, and user-friendly CGPA Calculator designed for students to calculate their Cumulative Grade Point Average (CGPA) based on subject-wise grade points and credits. 
 
 📌 About the Project
 
