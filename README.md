@@ -1,88 +1,101 @@
-# ACADEMIC CALCULATOR (LPU)
+🎓 CGPA Calculator
 
-A web-based academic result calculator designed according to the **Lovely Professional University (LPU)** evaluation system.  
-This project calculates **PASS / FAIL** status using a **dynamic weightage-based marking system** for theory and practical courses.
+A simple, accurate, and user-friendly CGPA Calculator designed for students to calculate their Cumulative Grade Point Average (CGPA) based on subject-wise grade points and credits.
 
----
+📌 About the Project
 
-## 🚀 Features
+Calculating CGPA manually can be time-consuming and error-prone. This project automates the process using a standard academic formula, ensuring accuracy, simplicity, and ease of use.
+The project is intended for academic submission as well as learning purposes.
 
-- Course type selection (Theory / Practical Only)
-- Attendance marks fixed **out of 5**
-- Dynamic weightage system (total = 100)
-- Accurate LPU passing criteria
-- Separate evaluation logic for:
-  - Theory courses
-  - Practical-only courses
-- Clear PASS / FAIL result
-- Detailed marks breakdown
-- Fully responsive UI
-- Works completely in the browser (no backend)
+✨ Features
 
----
+📘 Subject-wise grade point input
 
-## 📘 Passing Criteria (LPU)
+📊 Credit-based CGPA calculation
 
-### Theory Courses
-- Minimum **30% in End Term Exam (ETE)**  
-  **OR**
-- Minimum **30% in combined (MTE + ETE)**
-- Overall marks **≥ 40 / 100**
+⚡ Fast and accurate results
 
-### Practical-Only Courses
-- Minimum **30% in End Term Practical**
-- Overall marks (Attendance + CA + Practical) **≥ 40 / 100**
+🧮 Percentage conversion (optional)
 
----
+🧑‍🎓 Student-friendly and intuitive logic
 
-## 🧮 Marking System
+🧠 Calculation Logic
+CGPA Formula
+CGPA = (Σ (Grade Point × Credits)) / (Σ Credits)
 
-- Attendance marks are **fixed out of 5**
-- CA, MTE, ETE, and Practical marks have **variable weightages**
-- Total weightage of all components **must equal 100**
-- No component is assumed to be out of 100 individually
+Percentage Conversion (Optional)
+Percentage = CGPA × 9.5
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+Language: (C / Java / Python / JavaScript — update accordingly)
 
-- HTML
-- CSS
-- JavaScript
+Type: Academic / Utility Project
 
----
+Platform: Cross-platform
 
-## 📌 How to Use
+🚀 Getting Started
+Prerequisites
 
-1. Select course type (Theory or Practical)
-2. Enter weightage distribution
-3. Enter marks obtained
-4. Click **Calculate Result**
-5. View PASS / FAIL status with details
+Basic understanding of grade points and credits
 
----
+Supported compiler/interpreter (based on chosen language)
 
-## 🚀 Live Demo
+Usage
 
-👉 https://paramjeetsangwan.github.io/ACADEMIC_CALCULATOR/
+Enter the total number of subjects
+
+Input grade point for each subject
+
+Input corresponding credits
+
+View calculated CGPA (and percentage)
+
+📊 Example
+
+Input
+
+Subjects: 3
+Grade Points: 8, 7, 9
+Credits: 4, 3, 3
 
 
+Output
 
-## 🎯 Purpose
+CGPA: 8.0
+Percentage: 76%
 
-This project is created for **academic and learning purposes**, following real LPU evaluation logic, and can be used as a **college mini-project**.
+✅ Advantages
 
----
+Eliminates manual calculation errors
 
-## 👤 Author
+Saves time
 
-**Paramjeet Sangwan**
+Easy to understand and modify
 
----
+Suitable for all university grading systems
 
-## 📄 License
+🔮 Future Improvements
 
-This project is licensed under the **MIT License**.
+Semester-wise CGPA calculation
 
+Grade-to-point auto mapping
 
+Result history storage
 
+Graphical user interface (GUI)
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repository and submit a pull request for improvements or new features.
+
+📄 License
+
+This project is licensed under the MIT License — free to use for educational purposes.
+
+👨‍💻 Author
+
+Paramjeet Sangwan
+🎓 B.Tech (CSE), Class of 2026
+🏫 Lovely Professional University
